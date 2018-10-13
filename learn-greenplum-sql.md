@@ -1,0 +1,2 @@
+# Learn Greenplum SQL
+
